@@ -1,13 +1,16 @@
-# Responsive Travel Landing Page 🌍✈️
+# Task 1 - Responsive Landing Page
 
-A simple and responsive landing page built using HTML and CSS, designed for a travel agency.
+This is a simple responsive landing page for a travel agency created using HTML and CSS.
 
-## Features
-- Responsive layout using Flexbox and media queries
-- Logo and navigation bar
-- Hero section with call-to-action
-- Footer with social links
+## What I’ve Done:
+- Created a responsive layout with header, hero section, and footer
+- Added logo and brand name in the navbar
+- Used Flexbox and media queries for responsiveness
+- Styled a call-to-action hero section with travel-themed content
+- Ensured the footer stays at the bottom of the page
 
-## Tech Stack
+## Tools Used:
 - HTML5
 - CSS3
+- VS Code
+- Live Server Extension
